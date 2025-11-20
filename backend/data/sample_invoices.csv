@@ -1,0 +1,101 @@
+invoice_number,supplier_name,invoice_amount,payment_terms,due_date
+INV-0001,Acme Steel Corp,17296,1/15 Net 45,2025-12-25
+INV-0002,Raw Materials Inc,26049,2/10 Net 30,2025-12-06
+INV-0003,Swift Delivery Services,2679,1/15 Net 45,2025-12-25
+INV-0004,Quality Products Inc,15697,1/15 Net 45,2025-12-15
+INV-0005,Office Supply Plus,65622,2/10 Net 30,2025-12-08
+INV-0006,Quality Products Inc,9279,2/10 Net 30,2025-12-02
+INV-0007,Wholesale Goods Co,23031,1/15 Net 45,2025-12-22
+INV-0008,Global Shipping Ltd,45713,1/15 Net 45,2025-12-09
+INV-0009,Acme Steel Corp,5557,2/10 Net 30,2025-12-26
+INV-0010,Global Shipping Ltd,416026,2/10 Net 30,2025-12-12
+INV-0011,Raw Materials Inc,20189,2/10 Net 30,2025-12-26
+INV-0012,Office Supply Plus,2674,2/10 Net 30,2025-12-14
+INV-0013,Industrial Parts Co,33526,2/10 Net 30,2025-12-21
+INV-0014,Wholesale Goods Co,12847,2/10 Net 30,2025-12-16
+INV-0015,Global Shipping Ltd,115444,1/15 Net 45,2025-12-04
+INV-0016,Swift Delivery Services,29213,1/15 Net 45,2025-12-21
+INV-0017,Raw Materials Inc,47837,2/10 Net 30,2025-12-24
+INV-0018,Swift Delivery Services,1750,2/10 Net 30,2025-12-09
+INV-0019,Raw Materials Inc,15229,2/10 Net 30,2025-12-29
+INV-0020,Tech Components LLC,249295,2/10 Net 30,2025-12-16
+INV-0021,Logistics International,6977,1/15 Net 45,2025-12-13
+INV-0022,Swift Delivery Services,23730,2/10 Net 30,2025-12-10
+INV-0023,Quality Products Inc,14679,1/15 Net 45,2025-12-22
+INV-0024,Wholesale Goods Co,9751,2/10 Net 30,2025-12-09
+INV-0025,Global Shipping Ltd,292357,2/10 Net 30,2025-12-10
+INV-0026,Raw Materials Inc,46500,1/15 Net 45,2025-12-23
+INV-0027,Raw Materials Inc,1916,2/10 Net 30,2025-12-28
+INV-0028,Global Shipping Ltd,30673,2/10 Net 30,2025-12-10
+INV-0029,Quality Products Inc,23826,2/10 Net 30,2025-12-30
+INV-0030,Raw Materials Inc,214981,1/15 Net 45,2025-12-22
+INV-0031,Swift Delivery Services,35928,2/10 Net 30,2025-12-16
+INV-0032,Logistics International,27359,2/10 Net 30,2025-12-09
+INV-0033,Tech Components LLC,9830,1/15 Net 45,2025-12-25
+INV-0034,Quality Products Inc,38077,1/15 Net 45,2025-12-14
+INV-0035,Logistics International,164987,2/10 Net 30,2025-12-18
+INV-0036,Acme Steel Corp,2489,2/10 Net 30,2025-12-29
+INV-0037,Swift Delivery Services,20016,2/10 Net 30,2025-12-07
+INV-0038,Quality Products Inc,37666,1/15 Net 45,2025-12-04
+INV-0039,Quality Products Inc,7252,2/10 Net 30,2025-12-16
+INV-0040,Premium Materials,181813,1/15 Net 45,2025-12-29
+INV-0041,Swift Delivery Services,17507,2/10 Net 30,2025-12-30
+INV-0042,Swift Delivery Services,5371,1/15 Net 45,2025-12-12
+INV-0043,Global Shipping Ltd,29234,2/10 Net 30,2025-12-07
+INV-0044,Wholesale Goods Co,10212,2/10 Net 30,2025-12-30
+INV-0045,Premium Materials,188091,1/15 Net 45,2025-12-26
+INV-0046,Office Supply Plus,43271,2/10 Net 30,2025-12-29
+INV-0047,Swift Delivery Services,29558,1/15 Net 45,2025-12-18
+INV-0048,Logistics International,4258,1/15 Net 45,2025-12-13
+INV-0049,Premium Materials,45348,2/10 Net 30,2025-12-31
+INV-0050,Industrial Parts Co,364019,2/10 Net 30,2025-12-17
+INV-0051,Industrial Parts Co,2832,2/10 Net 30,2025-12-30
+INV-0052,Acme Steel Corp,25692,2/10 Net 30,2025-12-09
+INV-0053,Office Supply Plus,15161,1/15 Net 45,2025-12-25
+INV-0054,Premium Materials,2133,2/10 Net 30,2025-12-26
+INV-0055,Swift Delivery Services,117314,2/10 Net 30,2025-12-17
+INV-0056,Tech Components LLC,20821,1/15 Net 45,2025-12-18
+INV-0057,Raw Materials Inc,7932,1/15 Net 45,2025-12-31
+INV-0058,Wholesale Goods Co,23182,1/15 Net 45,2025-12-11
+INV-0059,Manufacturing Supply,34472,2/10 Net 30,2025-12-30
+INV-0060,Office Supply Plus,286708,1/15 Net 45,2025-12-09
+INV-0061,Industrial Parts Co,14196,Net 30,2025-12-02
+INV-0062,Raw Materials Inc,48564,Net 30,2025-12-02
+INV-0063,Raw Materials Inc,1964,Net 30,2025-12-04
+INV-0064,Office Supply Plus,31654,Net 30,2025-12-18
+INV-0065,Swift Delivery Services,196002,Net 30,2025-12-17
+INV-0066,Logistics International,9834,Net 30,2025-12-25
+INV-0067,Manufacturing Supply,25925,Net 45,2025-12-27
+INV-0068,Office Supply Plus,22478,Net 45,2025-12-05
+INV-0069,Global Shipping Ltd,6804,Net 45,2025-12-15
+INV-0070,Acme Steel Corp,432245,Net 45,2025-12-23
+INV-0071,Global Shipping Ltd,13972,Net 30,2025-12-25
+INV-0072,Raw Materials Inc,2790,Net 45,2025-12-08
+INV-0073,Manufacturing Supply,45146,Net 30,2025-12-06
+INV-0074,Tech Components LLC,22025,Net 45,2025-12-16
+INV-0075,Manufacturing Supply,89523,Net 30,2025-12-27
+INV-0076,Swift Delivery Services,13315,Net 30,2025-12-19
+INV-0077,Raw Materials Inc,16112,Net 30,2025-12-07
+INV-0078,Manufacturing Supply,8956,Net 45,2025-12-08
+INV-0079,Logistics International,13842,Net 45,2025-12-14
+INV-0080,Tech Components LLC,254693,Net 30,2025-12-31
+INV-0081,Global Shipping Ltd,5673,Net 45,2025-12-24
+INV-0082,Raw Materials Inc,20144,Net 45,2025-12-11
+INV-0083,Quality Products Inc,13832,Net 30,2025-12-25
+INV-0084,Acme Steel Corp,6138,Net 30,2025-12-03
+INV-0085,Premium Materials,313638,Net 45,2025-12-07
+INV-0086,Office Supply Plus,43281,Net 30,2025-12-29
+INV-0087,Quality Products Inc,2122,Net 30,2025-12-04
+INV-0088,Office Supply Plus,36461,Net 30,2025-12-30
+INV-0089,Quality Products Inc,47940,Net 30,2025-12-03
+INV-0090,Swift Delivery Services,269794,Net 30,2025-12-20
+INV-0091,Raw Materials Inc,27089,2% 10 days net 30,2025-12-23
+INV-0092,Tech Components LLC,25642,2% 10 days net 30,2025-12-14
+INV-0093,Manufacturing Supply,5915,"2/10, Net 30",2025-12-12
+INV-0094,Manufacturing Supply,10610,"2/10, Net 30",2025-12-21
+INV-0095,Premium Materials,88409,"2/10, Net 30",2025-12-08
+INV-0096,Industrial Parts Co,3170,2% 10 days net 30,2025-12-30
+INV-0097,Industrial Parts Co,26009,"2/10, Net 30",2025-12-11
+INV-0098,Premium Materials,38716,"2/10, Net 30",2025-12-24
+INV-0099,Acme Steel Corp,9666,2% 10 days net 30,2025-12-23
+INV-0100,Office Supply Plus,397806,2% 10 days net 30,2025-12-30

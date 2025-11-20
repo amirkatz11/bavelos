@@ -1,0 +1,6 @@
+industry,company_size,avg_discount_pct,avg_discount_days,typical_net_days,acceptance_rate
+Manufacturing,Mid-Market,1.9,10,45,82
+Manufacturing,Enterprise,2.1,10,60,78
+Technology,Mid-Market,1.5,10,30,65
+Retail,Mid-Market,2.0,10,30,88
+Services,Mid-Market,1.2,15,30,70
